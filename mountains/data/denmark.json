@@ -1,0 +1,66 @@
+[
+  {
+    "rank": 1,
+    "name": "Møllehøj",
+    "location": "Skanderborg municipality",
+    "elevation_m": 170.86,
+    "notes": ""
+  },
+  {
+    "rank": 2,
+    "name": "Yding Skovhøj",
+    "location": "Horsens municipality",
+    "elevation_m": 170.77,
+    "notes": "One of the Bronze Age burial mounds on top reaches 172.54 m (566.1 ft)"
+  },
+  {
+    "rank": 3,
+    "name": "Ejer Bavnehøj",
+    "location": "Skanderborg municipality",
+    "elevation_m": 170.35,
+    "notes": ""
+  },
+  {
+    "rank": 4,
+    "name": "Lindbjerg",
+    "location": "",
+    "elevation_m": 170.08,
+    "notes": ""
+  },
+  {
+    "rank": 5,
+    "name": "Margretelyst SØ",
+    "location": "",
+    "elevation_m": 169.78,
+    "elevation_ft": 557.0,
+    "notes": ""
+  },
+  {
+    "rank": 6,
+    "name": "Vistofte",
+    "location": "",
+    "elevation_m": 169.44,
+    "notes": ""
+  },
+  {
+    "rank": 7,
+    "name": "Rytterknægten",
+    "location": "Bornholm",
+    "elevation_m": 162,
+    "notes": "Highest point of the island"
+  },
+  {
+    "rank": 8,
+    "name": "Himmelbjerget",
+    "location": "Skanderborg municipality",
+    "elevation_m": 147,
+    "notes": "Considered the highest peak in Denmark until 1847"
+  },
+  {
+    "rank": 9,
+    "name": "Aborrebjerg",
+    "location": "Møn",
+    "elevation_m": 143,
+    "notes": "Highest point of the island"
+  }
+]
